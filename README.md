@@ -6,7 +6,7 @@
 ### <div align="center">Hi, I'm Brett Hughes. In 2021 I decided to make a career out of my coding hobby and I'm thrilled to be here.</div>  
   
 
-- I'm currently working on my [Front End Capstone](https://github.com/TwoFivinClimber/MADApp-FE-CAPSTONE) at [Nashville Software School](https://learn.nashvillesoftwareschool.com/software-engineering-with-java-aws-specialization?utm_term=software%20training&utm_campaign=Software+Engineering+Program+-+SouthEast&utm_source=adwords&utm_medium=ppc&hsa_acc=8822434001&hsa_cam=16259788953&hsa_grp=128706921490&hsa_ad=582897360907&hsa_src=g&hsa_tgt=kwd-10280621&hsa_kw=software%20training&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw6fyXBhBgEiwAhhiZsrtYxpoO5ZbI3IlQPELWQsnH89pj1MA5CSZnRK8WqB_ub9QQHhoLRhoCrXUQAvD_BwE).  
+- I'm currently working on Full Stack development
   
 
 - In October 2022 my focus will shift to Back End development with Python and Django.  
