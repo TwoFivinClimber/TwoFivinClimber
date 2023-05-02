@@ -6,7 +6,7 @@
 ### <div align="center">Hi, I'm Brett Hughes. In 2021 I decided to make a career out of my coding hobby and I'm thrilled to be here.</div>  
   
 
-- I'm currently working on Full Stack development with React/Next.js and Python/Django
+- I'm currently working on a freelance website for Baswood Farm.
   
 
 - I recently took on a frelance project creating a website for a farm  
