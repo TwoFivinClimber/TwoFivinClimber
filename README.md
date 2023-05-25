@@ -9,7 +9,7 @@
 - I'm currently working on a freelance website for Baswood Farm.
   
 
-- I recently took on a frelance project creating a website for a farm  
+- I am looking foward to creating my platform for jobsite planning.
   
 
 - Ask me about how the work ethics of my past eclectic career have shaped my experience as a Software Engineer.  
