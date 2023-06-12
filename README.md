@@ -12,12 +12,6 @@
 - I am looking foward to creating my platform for jobsite planning.
   
 
-- Ask me about how the work ethics of my past eclectic career have shaped my experience as a Software Engineer.  
-  
-
-- Fun Fact: I used to make fun of my brother for having "Computer Hands".  
-  
-
 <br/>  
 
 
