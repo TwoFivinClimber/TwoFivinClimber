@@ -1,14 +1,7 @@
-<div align="center">
-<img src="https://res.cloudinary.com/twofiveclimb/image/upload/v1666749003/mad-app/mqrsicc93qpvq1x0z2zg.jpg" align="center" style="width: 400px" />
-</div>  
-  
-
-### <div align="center">Hi, I'm Brett Hughes. In 2021 I decided to make a career out of my coding hobby and I'm thrilled to be here.</div>  
-  
+## <div align="center">Hi, I'm Brett Hughes </div>    
+    
 
 - I'm currently working on a freelance website for Baswood Farm.
-  
-
 - I am looking foward to creating my platform for jobsite planning.
   
 
