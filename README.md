@@ -44,11 +44,12 @@
 <br/>  
 
 
-## Github Stats  
-    
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twofivinclimber&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-
+## Github Stats 
+<table align="center">
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twofivinclimber&hide_border=true&layout=compact" align="middle" style="width: 400px" />
+    </td>
+</table>
 
 
 ----
