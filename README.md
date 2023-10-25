@@ -12,7 +12,7 @@
 
   
 <p align="middle">  
-<img src="https://skillicons.dev/icons?i=js,py,react,nextjs,django,gcp,aws,figma," />
+<img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,django,gcp,aws,figma," />
 </p>
 
 <br/>  
