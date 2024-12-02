@@ -1,5 +1,7 @@
 ## <div align="center">Hi, I'm Brett Hughes </div>
 
+<span>- I'm currently working as a Front End Developer at Cracker Barrel</span>
+<span>- I work on my Full Stack workforce platform called Scoped in my free time</span>
 
 ## My Skill Set  
 
