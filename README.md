@@ -1,11 +1,4 @@
-## <div align="center">Hi, I'm Brett Hughes </div>    
-    
-
-- I'm currently working on a freelance website for Baswood Farm.
-- I am looking foward to creating my platform for jobsite planning.
-  
-
-<br/>  
+## <div align="center">Hi, I'm Brett Hughes </div>
 
 
 ## My Skill Set  
